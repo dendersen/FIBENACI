@@ -30,12 +30,3 @@ async function calc(){
 }
 
 calc()
-calc()
-calc()
-calc()
-calc()
-calc()
-calc()
-calc()
-calc()
-calc()
